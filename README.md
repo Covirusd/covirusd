@@ -1,3 +1,3 @@
 # Covirusd
 
-Corona Virus Decease counter measures
+COVID-19 Corona Virus Decease (coronavirus) collaboration repository 
