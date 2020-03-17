@@ -1,3 +1,3 @@
 # Covirusd
 
-COVID-19 Corona Virus Decease (coronavirus) collaboration repository 
+COVID-19 Coronavirus Disease collaboration repository 
